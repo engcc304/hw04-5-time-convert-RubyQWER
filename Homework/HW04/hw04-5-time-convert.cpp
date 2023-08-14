@@ -22,7 +22,7 @@
 
          int seccon = day * 86400 ; 
         
-         printf ("%d days :%d seconds" ,day, seccon ) ;
+         printf ("%d days = %d seconds" ,day, seccon ) ;
 
         return 0 ;
     }
